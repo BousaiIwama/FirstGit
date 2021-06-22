@@ -61,3 +61,9 @@ ___
 - Markdown Preview Plus をインストール
 - 設定で**ファイルのURLへのアクセスを許可する**をオンにする
 - 画像はmdファイル以下に相対パスで指定する（絶対パスは上手くいかない）。
+## リモートリポジトリを作って共同作業の準備をする
++ 作成済みローカルリポジトリからPublish repository クリックでリモートリポジトリを作成する
++ GitHub上でリモートリポジトリを確認する
++ READMEを作成する（Add a README＞mdファイル編集＞Commit new file）
++ ローカルリポジトリにプルして確認する（Fetch origin＞Pull origin）
+ 
